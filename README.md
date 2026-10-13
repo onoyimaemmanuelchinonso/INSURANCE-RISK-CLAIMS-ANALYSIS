@@ -1,6 +1,10 @@
 # INSURANCE-RISK-CLAIMS-ANALYSIS
 This analysis explores insurance claims data to uncover which factors drive claim amounts and which segments carry the most risk. Private vehicles dominate claims, middle-aged drivers lead in volume, and coverage zones are evenly distributed.
 
+<img width="1080" height="608" alt="WhatsApp Image 2026-10-13 at 08 09 52" src="https://github.com/user-attachments/assets/8d8eb30c-5aab-4490-9f88-d9adf165561b" />
+
+
+
 Read the report on [medium](https://medium.com/@onoyimaemmanuelchinonso/the-risk-you-didnt-see-coming-inside-insurance-claims-data-45ea24116deb)
 
 ## Conclusion
